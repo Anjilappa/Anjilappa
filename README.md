@@ -1,10 +1,18 @@
 <h1 align="center">Hi 👋, I'm D Anjilappa</h1>
 <h3 align="center">A passionate Cloud & Devops Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjilappa&label=Profile%20views&color=0e75b6&style=flat" alt="anjilappa" /> </p>
-<div style="width:20%;height:0;padding-bottom:50%;position:relative;"> <image src="https://github.com/Anjilappa/Anjilappa/blob/e9af335810c66b5d139010115d88c7f1a616482f/devopslogo.jpeg" width="100%" height="20%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></a></p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=anjilappa&label=Profile%20views&color=0e75b6&style=flat" alt="anjilappa" /> </p>
+<div style="width:20%;height:0;padding-bottom:50%;position:relative;"> 
+<img align="right" height="300" width="500" src="https://github.com/Anjilappa/Anjilappa/blob/e9af335810c66b5d139010115d88c7f1a616482f/devopslogo.jpeg" />
 
-- 🔭 I’m currently working on **OnlineDMS**
+<!-- Languages and Tools Section -->
+<h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
+
+
+- I work on multiple clouds, DevOps tools, Microservices archistration, containers, and everything around it.
+- I’m looking to collaborate on **Cloud-native Projects**
+
+- 🔭 I’m currently working on **Terraform modules for creating entire Achitecture on different clouds**
 
 - 🌱 I’m currently preparing **for K8s certifications**
 
